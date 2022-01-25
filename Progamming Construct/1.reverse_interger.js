@@ -1,3 +1,6 @@
+// Q.1.Reverse the interger 
+
+
 function reverseNum(n) {
   // To store answer
   let ans = 0;
